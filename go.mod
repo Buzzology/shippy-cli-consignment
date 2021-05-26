@@ -1,4 +1,4 @@
-module github.com/buzzology/go-microservices-tutorial/shippy-cli-consignment/v0.2
+module github.com/buzzology/go-microservices-tutorial/shippy-cli-consignment
 
 go 1.16
 
