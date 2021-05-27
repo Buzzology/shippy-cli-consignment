@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	pb "github.com/buzzology/shippy-service-consignment/proto/consignment"
+	pb "github.com/Buzzology/shippy-service-consignment/proto/consignment"
 	micro "github.com/micro/go-micro/v2"
 )
 
